@@ -20,3 +20,6 @@ IMicrosoft tutorial
 
 ## What it looks like
 ![Time_PotY](MvcMovie/MvcMovie/assets/mvc_movie.PNG)
+
+## Other Info
+Due to mistakes made in the first mvc tutorial, I have redone the tutorial as Mvc-Movie2
